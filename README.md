@@ -1,5 +1,8 @@
-# alura_combo
-Divulgação de Combo do Alura 
+# Divulgação de Combo do Alura 
+
+## Tecnologias
+* HTML
+* CSS
 
 ![image](https://github.com/user-attachments/assets/c3a30d96-482a-4fe7-823f-eaa10e77e557)
 
